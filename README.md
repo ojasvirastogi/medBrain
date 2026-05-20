@@ -1,4 +1,4 @@
-# 🏥 Med-Brain: Smart Prescription Management with AI Chatbot  
+# 🏥NeuroMed: Smart Prescription Management with AI Chatbot  
 
 ## 📌 Overview  
 **Med-Brain** is a smart, AI-powered platform designed for **storing and managing patient prescriptions** while also integrating an **AI chatbot** to assist doctors and patients with medical queries. It provides a seamless and secure way to store, retrieve, and manage prescriptions while ensuring easy access to medical insights through the chatbot.  
